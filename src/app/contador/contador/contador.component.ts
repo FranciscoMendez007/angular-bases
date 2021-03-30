@@ -5,7 +5,7 @@ import {Component} from '@angular/core';
     template:` 
 
     <h1>{{titulo}}</h1>
-
+    <h2>Pruba git</h2>
     <h3>La base es: <strong>{{base}}</strong></h3>
 
     <button (click)="acumular(base)"> {{base}} </button>
